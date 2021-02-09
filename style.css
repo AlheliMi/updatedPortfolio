@@ -1,0 +1,177 @@
+html {
+    position: relative;
+    min-height: 100%;
+  }
+  body {
+    margin-bottom: 60px; /* Margin bottom by footer height */
+    background-color: rgb(192, 232, 251);
+  }
+  .footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px; /* Set the fixed height of the footer here */
+    line-height: 60px; /* Vertically center the text there */
+  }
+   
+.jumbotron {
+    background: url(https://nuestraflora.com/wp-content/uploads/2019/07/flor-de-aleli-17.jpg) no-repeat center center;
+    background-size: cover;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color: white;
+    text-align: center;
+    font-family:'Montserrat', sans-serif!important;
+  }
+  
+  .navbar {
+    background-color: rgb(231, 171, 180)!important;
+    font-family:'Open Sans', sans-serif!important;
+    font-size: 25px!important;
+  } 
+  
+  .navbar-brand .collapse .navbar-collapse {
+    font-family:'Open Sans', sans-serif!important;
+    font-size: 25px!important;
+  }
+  
+  .navbar-right {
+    font-family: 'Roboto', sans-serif!important;
+    font-weight: bold!important;
+    font-size: 35px!important;
+  }
+  
+  .card-body {
+      background-color: rgb(255, 220, 255)!important;
+      font-family:'Dosis', sans-serif;
+      font-size: 25px;
+      color:rgb(88, 87, 87);
+  }
+  
+  .card-header {
+      font-weight: bolder;
+      font-size: 28px;
+      color:rgb(88, 87, 87);
+  }
+   .img-fluid {
+       width: 100%;
+   }
+  
+   .card {
+      background-color: rgb(226, 188, 226)!important
+   }
+  
+    .card-footer {
+      background-color: rgb(231, 171, 180)!important;
+      font-family:'Open Sans', sans-serif!important;
+      font-size: 18px!important;
+      color: rgb(88, 87, 87);
+    }
+
+    .tittle {
+        font-family: 'Roboto', sans-serif!important;
+        color:rgb(82, 82, 82)!important;
+    }
+    .col-sm-8 {
+        padding-top: 100px!important;
+    }
+    
+    .navbar { 
+        width: 100%; 
+        background-color: rgb(231, 171, 180)!important
+    } 
+    
+    .nav-link {
+        font-family:'Open Sans', sans-serif!important;
+        font-size: 30px!important;
+    }
+    
+    .nav-link .disabled {
+        font-family: 'Roboto', sans-serif!important;
+        font-weight: bold!important;
+    }
+    
+    .carousel-item {  
+        font-family: 'Roboto', sans-serif!important;
+        color:rgb(82, 82, 82)!important;
+        text-align: center;
+        padding-bottom: 20px;
+    }
+    
+    .card-footer {
+        background-color: rgb(231, 171, 180)!important;
+        font-family:'Open Sans', sans-serif!important;
+        font-size: 18px!important;
+        color: rgb(88, 87, 87);
+        bottom: 0;
+        width: 100%;
+        height: 60px;
+      }
+
+      
+    .row {
+        padding-top: 40px!important;
+    }
+    
+    .col-sm-6 {
+        padding-top: 10px!important;
+        background-color: rgb(231, 171, 180)!important;
+        font-family: 'Roboto', sans-serif!important;
+        color:rgb(82, 82, 82)!important;
+    }
+    
+    .navbar { 
+        width: 100%; 
+        background-color: rgb(231, 171, 180)!important;
+    
+    } 
+    
+    .nav-link {
+        font-family:'Open Sans', sans-serif!important;
+        font-size: 30px!important;
+    }
+    
+    .nav-link .disabled {
+        font-family: 'Roboto', sans-serif!important;
+        font-weight: bold!important;
+    }
+    
+    .btn {
+        background-color: rgb(169, 227, 240) !important;
+        
+    }
+    .card-footer {
+        background-color: rgb(231, 171, 180)!important;
+        font-family:'Open Sans', sans-serif!important;
+        font-size: 18px!important;
+        color: rgb(88, 87, 87)!important;
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+        height: 60px;
+      }
+
+      .myButton {
+        box-shadow: 0px 0px 0px 2px #9ecdf0;
+        background:linear-gradient(to bottom, #84c1f0 5%, #70daf5 100%);
+        background-color:#84c1f0;
+        border-radius:10px;
+        border:1px solid #468b9c;
+        display:inline-block;
+        cursor:pointer;
+        color:#ffffff;
+        font-family:Arial;
+        font-size:15px;
+        padding:5px 35px;
+        text-decoration:none;
+        text-shadow:0px 1px 0px #2a4e66;
+    }
+    .myButton:hover {
+        background:linear-gradient(to bottom, #70daf5 5%, #84c1f0 100%);
+        background-color:#70daf5;
+    }
+    .myButton:active {
+        position:relative;
+        top:1px;
+    }
+    
