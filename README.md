@@ -34,7 +34,8 @@ they are in the following files: `index.html`, `portfolio.html` and `contact_me.
 ## How does it looks?
 
 go to the link to open on the browser
-- https://alhelimi.github.io/Profile_Update/
+- https://alhelimi.github.io/updatedPortfolio/
+
 
 
 ## Credits 
@@ -51,8 +52,9 @@ The last portfolio I delivered, it was sort of incomplete because, the footer, d
 
 ## Contributing
 
-- https://alhelimi.github.io/portfolio/.
-- https://github.com/AlheliMi/portfolio.git
+- https://alhelimi.github.io/updatedPortfolio/
+- https://github.com/AlheliMi/updatedPortfolio.gits
+
 
 
 Please feel free to pull, comment, add, update, discuss or even just chat @ alhealhe72@hotmail.com 
