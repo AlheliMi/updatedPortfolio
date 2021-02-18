@@ -2,12 +2,14 @@ html {
     height: 100vh;
     width: 100vw;
     background-image: linear-gradient(to bottom left, rgb(236, 241, 246), rgba(218, 195, 244, 0.69), rgba(233, 203, 244, 0.703));
+    overflow: hidden;
     /* radiant gradiant */
 }
 
 body {
     height: 100vh;
     width: 100vw;
+    overflow: hidden;
 }
 
 .home {
@@ -83,7 +85,7 @@ body {
 }
 
 .encabezado {
-    width: 90vh;
+    width: auto;
     height: 155px;
     background-color: darkseagreen;
 }
@@ -112,7 +114,16 @@ body {
 }
 
 .projects {
-    max-width: 95vw;
-    overflow: auto;
+    padding: 20px;
+    margin-right: 10px;
+    width: auto;
+    height: 80vh;
+    overflow: scroll;
+    overflow-x: hidden;
+}
 
+.wtf{
+    width: 100vw;
+    padding: 30px;
+    background-color: indigo;
 }
